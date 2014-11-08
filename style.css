@@ -1,5 +1,11 @@
 /* comments look like this in CSS files */
 
+h1
+{color: #B0C4DE;
+font-size: 50px;
+font-family: cursive;}
+
+
 #navbar {
   background-color: #000000; /* black */
   color: #ffffff;            /* white */
@@ -17,3 +23,10 @@
 main {
   padding: 0.5em;
 }
+
+body {
+  background-color: #FFE4C4;
+  width: 100%;
+  height: 100%;
+}
+
